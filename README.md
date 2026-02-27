@@ -18,7 +18,7 @@
 Ответ:  
 Использовал команду nmap -sV -p- 10.22.97.59   
 
-Службы:
+Службы:  
 21порт	FTP	vsftpd 
 22порт	SSH	OpenSSH   
 23порт	Telnet	telnetd  
