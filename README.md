@@ -23,13 +23,13 @@
 22порт	SSH	OpenSSH   
 23порт	Telnet	telnetd  
 25порт	SMTP	Postfix  
-53порт	DNS	BIND 
+53порт	DNS	BIND  
 80порт	HTTP	Apache  
 139порт SMB	Samba  
 445порт	SMB	Samba  
-3306порт	MySQL	MySQL 
-5432порт	PostgreSQL	PostgreSQL  
-5900порт	VNC	VNC server  
+3306порт	MySQL	MySQL  
+5432порт	PostgreSQL	    
+5900порт	VNC	VNC server    
 6667порт	IRC	UnrealIRCd  
 8009порт	AJP	Apache JServ  
 8180порт	HTTP	Apache Tomcat  
