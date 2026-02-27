@@ -33,3 +33,6 @@
 6667порт	IRC	UnrealIRCd  
 8009порт	AJP	Apache JServ  
 8180порт	HTTP	Apache Tomcat  
+  
+1. ftp-сервиса на 21м порту. Данная версия FTP-сервера содержит встроенную backdoor-уязвимость, которая позволяет получить удалённый доступ к системе без аутентификации.  
+Ссылка https://www.exploit-db.com/exploits/17491
